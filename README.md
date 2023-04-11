@@ -16,8 +16,8 @@ This model is intended to predict the likelihood of a soccer player getting inju
 
 ## Data Source(s)
 The following data sources were used for this model:
-- Player attributes - [FIFA 16-21 data] (https://www.kaggle.com/datasets/stefanoleone992/fifa-21-complete-player-dataset?select=players_20.csv)
-- Injury history - Transfermarkt injury history data. Pulled and scraped from there using [worldfootballR R package] (https://rdrr.io/cran/worldfootballR/)
+- Player attributes - [FIFA 16-21 data](https://www.kaggle.com/datasets/stefanoleone992/fifa-21-complete-player-dataset?select=players_20.csv)
+- Injury history - Transfermarkt injury history data. Pulled and scraped from there using [worldfootballR R package](https://rdrr.io/cran/worldfootballR/)
 - Player game time data - [Barclays Premier League Soccer Dataset](https://www.kaggle.com/datasets/narekzamanyan/barclays-premier-league?select=player_stats.csv)
 
 ## Players/seasons in scope:
