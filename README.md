@@ -73,11 +73,11 @@ After a grid search, the model arrived at the following optimal hyperparameters:
 - Subsample (rows): 0.9
 
 ## Feature Importance
-XYZ PASTE PICTURE
+![image](https://user-images.githubusercontent.com/89418186/231194894-6de126fe-e712-483d-a7b3-352474f1256c.png)
 
 ## Example of one tree
 Below is an example of one of the 200 decision trees involved in the XGBoost model
-XYZ PASTE PICTURE
+![image](https://user-images.githubusercontent.com/89418186/231194934-4cca25e0-ecdb-4540-bf13-63c92d00e314.png)
 
 ## Metrics
 
@@ -87,7 +87,7 @@ XYZ PASTE PICTURE
 - F1 score: 28.57%
 - AUC-ROC score: 66.65%
 
-XYZ PASTE ROC PIC
+![image](https://user-images.githubusercontent.com/89418186/231194983-63ba7c19-de52-4d40-aa24-619395e598de.png)
 
 ## Ethical Considerations
 
